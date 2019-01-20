@@ -12,7 +12,7 @@ A Bidirectional LSTM and Attention model capable of detecting News categories.
 
 ## Running
 ```
-python headline_category.py
+python3 headline_category.py
 ```
 
 ## Dataset
@@ -56,4 +56,4 @@ Dataset can be downloaded [here](https://www.kaggle.com/rmisra/news-category-dat
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details
