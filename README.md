@@ -14,3 +14,9 @@ Preprocessing steps:
 "dataset_final.txt" file is the final input to the model, each line in it is of the form: "headline" + "\t" + "short_description" + "category_index" + "\n"
 
 "category_index.json" file contains dictionary to convert category to index vice versa.
+
+## Authors
+
+*  [Vishwajeet Kumar](https://github.com/vishwajeetkr)
+*  [Atul Kumar](https://github.com/atkatul)
+*  [Akash Meshram](https://github.com/akashmeshram)
