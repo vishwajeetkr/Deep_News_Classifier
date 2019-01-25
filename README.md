@@ -48,6 +48,9 @@ Dataset can be downloaded [here](https://www.kaggle.com/rmisra/news-category-dat
 
 * [Colaboratory](https://colab.research.google.com/)
 
+## References
+* [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
+* [Bi-Directional Attention Flow For Machine Comprehension](https://arxiv.org/pdf/1611.01603.pdf)
 ## Authors
 
 *  [Vishwajeet Kumar](https://github.com/vishwajeetkr)
