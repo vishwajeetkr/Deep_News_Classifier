@@ -51,12 +51,12 @@ def attention(hidden_vectors, context_vectors):
     #print(reshape_concatnated_vectors.get_shape()[0], reshape_concatnated_vectors.get_shape()[1])
     
     final_vectors = tf.nn.tanh(tf.matmul(reshape_concatnated_vectors, W_c))
+    
     #print(final_vectors.get_shape()[0], final_vectors.get_shape()[1])
     reshaped_final_vectors = tf.reshape(final_vectors, [tf.shape(c_attention_vectors)[0], c_attention_vectors.get_shape()[1], c_attention_vectors.get_shape()[2]])
     #print(tf.shape(reshaped_final_vectors)[0], tf.shape(reshaped_final_vectors)[1], tf.shape(reshaped_final_vectors)[2])
-    #print("passed stage 3")
     #print(reshaped_final_vectors.get_shape()[0], reshaped_final_vectors.get_shape()[1], reshaped_final_vectors.get_shape()[2])
-    #print("something")
+    
     return reshaped_final_vectors
 
 
