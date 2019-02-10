@@ -51,6 +51,7 @@ Dataset can be downloaded [here](https://www.kaggle.com/rmisra/news-category-dat
 ## References
 * [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
 * [Bi-Directional Attention Flow For Machine Comprehension](https://arxiv.org/pdf/1611.01603.pdf)
+* For more details on the model, please follow this [blog](https://medium.com/@vishwajeetkumar_85368/news-classification-using-bidirectional-lstm-and-attention-a67aa803ca74).
 ## Authors
 
 *  [Vishwajeet Kumar](https://github.com/vishwajeetkr)
