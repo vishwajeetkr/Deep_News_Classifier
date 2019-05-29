@@ -3,7 +3,7 @@
 A Bidirectional LSTM and Attention model capable of detecting News categories.
 
 * This model is trained to generalize a set of not-yet annotated News Headlines.
-* This model can guess the correct News Headline category of data not necessarily belonging to the same source of the News Headlines dataset.
+* This model can guess the News Headline category of data not necessarily belonging to the same source of the News Headlines dataset.
 
 ## Prerequisites
 
