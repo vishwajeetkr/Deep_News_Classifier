@@ -57,6 +57,7 @@ Dataset can be downloaded [here](https://www.kaggle.com/rmisra/news-category-dat
 *  [Vishwajeet Kumar](https://github.com/vishwajeetkr)
 *  [Atul Kumar](https://github.com/atkatul)
 *  [Akash Meshram](https://github.com/akashmeshram)
+*  [Pritam Priyadarshi]
 
 ## License
 
